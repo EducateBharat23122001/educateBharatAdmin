@@ -1,0 +1,34 @@
+{
+    "_id": "6485ab36a159bb2640991da1",
+    "subjectName": "CHEMISTRY",
+    "subjectChapters": [
+        {
+            "chapterName": "Chemical Bonding\t\t",
+            "_id": "64a0ebe9d7da71142ed8eb0d"
+        },
+        {
+            "chapterName": "AMINE",
+            "_id": "64a0ec13d7da71142ed8eb16"
+        },
+        {
+            "chapterName": "SOME BASIC CONCEPTS OF CHEMISTRY",
+            "_id": "64a12b1c5f778068104c0d3f"
+        }
+    ],
+    "subjectImage": "noimage",
+    "subjectQuizzes": [
+        {
+            "subjectQuizName": "QUIZ 1",
+            "_id": "64a042a4b84f1133f2f83739",
+            "access": "FREE"
+        },
+        {
+            "subjectQuizName": "PHYSICS SUBJECTWISE QUIZ  10",
+            "_id": "64aa65d1e4b1ff4d029b3fb6",
+            "access": "PAID"
+        }
+    ],
+    "createdAt": "2023-06-11T11:08:38.664Z",
+    "updatedAt": "2023-07-14T03:04:19.303Z",
+    "__v": 112
+}

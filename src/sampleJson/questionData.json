@@ -1,0 +1,21 @@
+{
+    "_id": "6735e951ae47042c813b3cd3",
+    "questionName": "1",
+    "questionType": "MCQ",
+    "quizType": "fullquiz",
+    "quizId": "6735e7e7730cd7cd439d6796",
+    "questionOptions": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "questionAnswer": "3",
+    "questionMarks": 4,
+    "questionNegativeMarks": 1,
+    "questionSubject": "physics",
+    "questionPdf": null,
+    "createdAt": "2024-11-14T12:13:05.277Z",
+    "updatedAt": "2024-11-14T12:13:05.277Z",
+    "__v": 0
+}

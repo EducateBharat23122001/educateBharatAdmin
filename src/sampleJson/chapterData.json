@@ -1,0 +1,41 @@
+{
+    "_id": "64a007506754984b326a4a6b",
+    "chapterName": "Atoms and Nuclei ",
+    "chapterImage": "noimage",
+    "chapterVideos": [
+        {
+            "videoUrl": "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/4f.mp4",
+            "videoName": "FakeTestVideo",
+            "access": "FREE"
+        }
+    ],
+    "chapterTests": [],
+    "chapterNotes": [
+        {
+            "notesUrl": "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/Physics%20Revision%20Demo%20Notes.pdf",
+            "notesName": "PHYSICS REVISION DEMO NOTES",
+            "access": "FREE"
+        },
+        {
+            "notesUrl": "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/PHYSICS%20REVISION%20COMPLETE%20NOTES.pdf",
+            "notesName": "PHYSICS REVISION COMPLETE NOTES",
+            "access": "PAID"
+        }
+    ],
+    "subjectId": "6485aa11a159bb2640991d8e",
+    "chapterQuizzes": [
+        {
+            "chapterQuizName": "Atoms and Nuclei QUIZ 1",
+            "_id": "64a0075f6754984b326a4a70",
+            "access": "FREE"
+        },
+        {
+            "chapterQuizName": "Harshal Jain Test",
+            "_id": "6731dfe0d0a0a98467e14ecd",
+            "access": "FREE"
+        }
+    ],
+    "createdAt": "2023-07-01T11:00:32.611Z",
+    "updatedAt": "2024-11-11T10:43:44.997Z",
+    "__v": 5
+}

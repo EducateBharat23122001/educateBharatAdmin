@@ -1,0 +1,93 @@
+{
+    "_id": "64856ec3ca1b48e7402ba37d",
+    "orderItems": [
+        {
+            "fullproduct": {
+                "_id": "647d6b785dee0aa680afbf35",
+                "productName": "product 1",
+                "productPrice": "1200",
+                "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "productImages": [
+                    "/public/files/1685941112045.png"
+                ],
+                "productCategory": "",
+                "productReviews": [],
+                "productRating": "4.5",
+                "productStock": "INSTOCK",
+                "createdAt": "2023-06-05T04:58:32.539Z",
+                "updatedAt": "2023-06-05T04:58:32.539Z",
+                "__v": 0
+            },
+            "price": "1200",
+            "quantity": 3,
+            "cartitemId": "93b3de81-a847-466b-a7fd-0bd1717429c8"
+        },
+        {
+            "fullproduct": {
+                "_id": "647d6b965dee0aa680afbf39",
+                "productName": "product 2",
+                "productPrice": "1709",
+                "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "productImages": [
+                    "/public/files/1685941142079.png"
+                ],
+                "productCategory": "",
+                "productReviews": [],
+                "productRating": "4.5",
+                "productStock": "OUTOFSTOCK",
+                "createdAt": "2023-06-05T04:59:02.466Z",
+                "updatedAt": "2023-06-05T04:59:02.466Z",
+                "__v": 0
+            },
+            "price": "1709",
+            "quantity": 3,
+            "cartitemId": "25d0ec20-a1a1-4103-9257-80265f445829"
+        },
+        {
+            "fullproduct": {
+                "_id": "647d6b785dee0aa680afbf35",
+                "productName": "product 1",
+                "productPrice": "1200",
+                "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+                "productImages": [
+                    "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/WhatsApp%20Image%202023-05-19%20at%205.30.46%20AM.jpeg",
+                    "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/20%25%20off%20TODAY.png"
+                ],
+                "productCategory": "",
+                "productReviews": [],
+                "productRating": "4.5",
+                "productStock": "INSTOCK",
+                "createdAt": "2023-06-05T04:58:32.539Z",
+                "updatedAt": "2023-06-09T13:09:55.606Z",
+                "__v": 3
+            },
+            "price": "1200",
+            "quantity": 3,
+            "cartitemId": "cc5730ba-f17e-4623-b980-6991dbc0a853"
+        }
+    ],
+    "shippingAddress": {
+        "AddressLine1": "B-2",
+        "AddressLine2": "Sahib Parisar",
+        "City": "Jabalpur",
+        "State": "MP",
+        "Pincode": "482001"
+    },
+    "paymentMethod": "COD",
+    "paymentId": "0",
+    "carttotal": "4109",
+    "userId": "647d3ba65dee0aa680afbdac",
+    "isPaid": false,
+    "paidAt": null,
+    "isDelivered": "Not Delivered",
+    "isCancelled": false,
+    "shippingCost": "3",
+    "tax": "12",
+    "deliveryBoy": {
+        "name": "",
+        "phone": ""
+    },
+    "createdAt": "2023-06-11T06:50:43.431Z",
+    "updatedAt": "2023-06-11T06:50:43.431Z",
+    "__v": 0
+}

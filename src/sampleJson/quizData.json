@@ -1,0 +1,155 @@
+{
+    "disabled": false,
+    "_id": "6735e7e7730cd7cd439d6796",
+    "courseQuizName": "Harshal Jain Test",
+    "courseQuizImage": "noimage",
+    "courseQuizQNA": [
+        {
+            "_id": "6735e951ae47042c813b3cd3",
+            "questionName": "1",
+            "questionType": "MCQ",
+            "quizType": "fullquiz",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": null
+        },
+        {
+            "_id": "6735e989ae47042c813b3cd9",
+            "questionName": "2",
+            "questionType": "MCQ",
+            "quizType": "fullquiz",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": null
+        },
+        {
+            "_id": "6735ea177cb94f6d782a3fb7",
+            "questionName": "3",
+            "questionType": "MCQ",
+            "quizType": "fullquiz",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": null
+        },
+        {
+            "_id": "6737104fa1e4a5ddaed5b85c",
+            "questionName": "4",
+            "questionType": "Short Answer",
+            "quizType": "course",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/Document%2021%20%281%29.pdf"
+        }
+    ],
+    "courseId": "6482fe48bd8f1982fd69a066",
+    "quizType": "chapter",
+    "access": "FREE",
+    "afterSubmissionPdf": null,
+    "timeLimit": 60000,
+    "createdAt": "2024-11-14T12:07:03.421Z",
+    "updatedAt": "2024-11-15T09:11:43.844Z",
+    "__v": 4,
+    "parentId": "6482fe48bd8f1982fd69a066",
+    "quizImage": "noimage",
+    "quizName": "Harshal Jain Test",
+    "quizQNA": [
+        {
+            "_id": "6735e951ae47042c813b3cd3",
+            "questionName": "1",
+            "questionType": "MCQ",
+            "quizType": "fullquiz",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": null
+        },
+        {
+            "_id": "6735e989ae47042c813b3cd9",
+            "questionName": "2",
+            "questionType": "MCQ",
+            "quizType": "fullquiz",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": null
+        },
+        {
+            "_id": "6735ea177cb94f6d782a3fb7",
+            "questionName": "3",
+            "questionType": "MCQ",
+            "quizType": "fullquiz",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": null
+        },
+        {
+            "_id": "6737104fa1e4a5ddaed5b85c",
+            "questionName": "4",
+            "questionType": "Short Answer",
+            "quizType": "course",
+            "quizId": "6735e7e7730cd7cd439d6796",
+            "questionOptions": [],
+            "questionAnswer": "3",
+            "questionMarks": 4,
+            "questionNegativeMarks": 1,
+            "questionSubject": "physics",
+            "questionPdf": "https://educatebharatbackendbucket.s3.ap-south-1.amazonaws.com/Document%2021%20%281%29.pdf"
+        }
+    ]
+}
