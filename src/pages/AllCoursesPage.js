@@ -14,6 +14,7 @@ const AllCoursesPage = () => {
     const [courseName, setCourseName] = useState('');
     // Fetch all courses
     const getAllCourses = () => {
+      console.log(`${process.env.REACT_APP_API_URL}/allcourses`)
         fetch(`${process.env.REACT_APP_API_URL}/allcourses`, {
             method: 'POST',
         })
